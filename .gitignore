@@ -1,6 +1,9 @@
 # User defined ignores
 bin/
 
+# Vim specific ignores
+*.sw*
+
 # Godot-specific ignores
 .import/
 export.cfg
